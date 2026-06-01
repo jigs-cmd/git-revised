@@ -2,3 +2,10 @@
   height:30px;
   width:10px;
 }
+.header{
+  color:blue;
+}
+.footer{
+  color:green;
+  background-color: antiquewhite;
+}
